@@ -1,4 +1,4 @@
-## What is it?
+## What it is
 Console application for hotel check-in & check-out, that connects to a SQL server (in spanish).
 
 
